@@ -1,1 +1,1 @@
-# minigames-py
+# tugas minigame :)
